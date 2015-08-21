@@ -3,3 +3,8 @@ Things I have learned about Git
 Git is software.
 Git allows multiple people to work with multiple files at once.
 Git keeps a complete history of all changes.
+Git has steps to get to commit
+	make change
+	add untracked file
+	stage the change 
+	commit the change (you should as a comment of what you changed git commit -m “”)
