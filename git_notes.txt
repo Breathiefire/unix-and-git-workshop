@@ -6,8 +6,10 @@ Git keeps a complete history of all changes.
 Git has steps to get to commit
 	make change
 	add untracked file
-	stage the change 
+	stage the change
 	commit the change (you should as a comment of what you changed git commit -m “”)
 branching adds “drawers” that have a copy of the master. This new branch can be changed without changing the master.
 
 You can work on one branch at a time by switching branches.
+
+[Note from instructor: Kay asked perceptive questions and really seemed to grasp the material in a meaningful way.]
